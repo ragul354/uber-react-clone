@@ -12,7 +12,7 @@ function Head(){
     return(
         <div className="head">
             <h2 className="line"></h2>
-            <h3 className='uber'>UBER</h3>
+            <h2 className='uber'>UBER</h2>
             <div className='content'>
             <img className='img1' src={img1} alt="Uber" />
             <h1 className="rar">Request a Ride for<br/> Now or Later</h1>
