@@ -1,38 +1,157 @@
-.App {
-  text-align: center;
+.head{
+  /* padding-left: 50px; */
+  color: rgb(8, 8, 8);
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.uber{
+  color: rgb(153, 255, 0);
+  padding-left: 50px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.line{
+  background-color: black;
+  height: 4px;
+  width: 1340px;
+  position: absolute;
+  margin-top: 30px;
+  border-radius: 2px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.rar{
+  margin-top: 100px;
+}
+.content{
+  margin-left: 50px;
+}
+input{
+  height: 30px;
+  width: 300px;
+  outline-style: none;
+  border-style: none;
+  background-color: rgba(0, 0, 0, 0.288);
+  margin-top: 15px;
+}
+.btn1, .btn2{
+  height: 25px;
+  border-radius: 10px;
+  background-color: black;
   color: white;
+  margin-top: 25px;
+}
+.btn2{
+  margin-left: 25px;
+}
+.img1 {
+  position: absolute;
+  margin-left: 700px;
+  width: 400px;
+  border-radius: 20px;
+  height: 400px;
+  object-fit: cover;
+}
+.img2{
+  position: absolute;
+  width: 100px;
+  margin-top: 150px;
+}
+.side{
+  margin-top: 200px;
+  margin-left: 700px;
+  margin-bottom: 100px;
+}
+.img3{
+  position: absolute;
+  width: 400px;
+  margin-top: 200px;
+
 }
 
-.App-link {
-  color: #61dafb;
+.container{
+  margin-top: 200px;
+  margin-bottom: 100px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  display: inline-block;
+  /* padding: 10px 20px; */
+}
+
+.card-wrapper {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.card {
+  width: 330px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+  padding: 20px;
+  text-align: left;
+}
+
+.card-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card p {
+  font-size: 14px;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+.card button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.get{
+  border-style: none;
+  background-color: #000000;
+  color: white;
+  height: 30px;
+  border-radius: 5px;
+}
+.img7{
+  margin-top: 50px;
+  position: absolute;
+  margin-left: 650px;
+  height: 300px;
+  border-radius: 10px;
+}
+.temp2 h1{
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.lis{
+  margin-left: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.faq{
+  margin-top: 150px;
+}
+.img8,.img9{
+  height: 150px;
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.ub{
+  margin-bottom: 100px;
+  font-size: 18px;
+}
+.footer{
+  color: white;
+  background-color: black;
+  padding: 50px;
 }
