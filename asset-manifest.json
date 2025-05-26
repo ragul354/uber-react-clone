@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uber-react-clone/static/css/main.ed0636bf.css",
-    "main.js": "/uber-react-clone/static/js/main.aa3b4312.js",
+    "main.css": "/uber-react-clone/static/css/main.cec9664d.css",
+    "main.js": "/uber-react-clone/static/js/main.f86760af.js",
     "static/js/453.57b5c6f4.chunk.js": "/uber-react-clone/static/js/453.57b5c6f4.chunk.js",
     "static/media/image7.png": "/uber-react-clone/static/media/image7.1ae5165fb3c652f3ce30.png",
     "static/media/image.png": "/uber-react-clone/static/media/image.7c04c479240667c7f28c.png",
@@ -13,12 +13,12 @@
     "static/media/image8.png": "/uber-react-clone/static/media/image8.25695e0f95281896150e.png",
     "static/media/image9.png": "/uber-react-clone/static/media/image9.e93b6f921947867fc4c2.png",
     "index.html": "/uber-react-clone/index.html",
-    "main.ed0636bf.css.map": "/uber-react-clone/static/css/main.ed0636bf.css.map",
-    "main.aa3b4312.js.map": "/uber-react-clone/static/js/main.aa3b4312.js.map",
+    "main.cec9664d.css.map": "/uber-react-clone/static/css/main.cec9664d.css.map",
+    "main.f86760af.js.map": "/uber-react-clone/static/js/main.f86760af.js.map",
     "453.57b5c6f4.chunk.js.map": "/uber-react-clone/static/js/453.57b5c6f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed0636bf.css",
-    "static/js/main.aa3b4312.js"
+    "static/css/main.cec9664d.css",
+    "static/js/main.f86760af.js"
   ]
 }
