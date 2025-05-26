@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/uber-react-clone/static/css/main.ed0636bf.css",
+    "main.js": "/uber-react-clone/static/js/main.aa3b4312.js",
+    "static/js/453.57b5c6f4.chunk.js": "/uber-react-clone/static/js/453.57b5c6f4.chunk.js",
+    "static/media/image7.png": "/uber-react-clone/static/media/image7.1ae5165fb3c652f3ce30.png",
+    "static/media/image.png": "/uber-react-clone/static/media/image.7c04c479240667c7f28c.png",
+    "static/media/image6.png": "/uber-react-clone/static/media/image6.202b3806ab0b87cd7821.png",
+    "static/media/image4.png": "/uber-react-clone/static/media/image4.7a0ce5da0244890d9250.png",
+    "static/media/image5.png": "/uber-react-clone/static/media/image5.5cc9d5e0668e6b8b04db.png",
+    "static/media/image3.png": "/uber-react-clone/static/media/image3.9c120b9f6e1996313c57.png",
+    "static/media/image2.png": "/uber-react-clone/static/media/image2.137b37851af838fb06b9.png",
+    "static/media/image8.png": "/uber-react-clone/static/media/image8.25695e0f95281896150e.png",
+    "static/media/image9.png": "/uber-react-clone/static/media/image9.e93b6f921947867fc4c2.png",
+    "index.html": "/uber-react-clone/index.html",
+    "main.ed0636bf.css.map": "/uber-react-clone/static/css/main.ed0636bf.css.map",
+    "main.aa3b4312.js.map": "/uber-react-clone/static/js/main.aa3b4312.js.map",
+    "453.57b5c6f4.chunk.js.map": "/uber-react-clone/static/js/453.57b5c6f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0636bf.css",
+    "static/js/main.aa3b4312.js"
+  ]
+}
